@@ -3,8 +3,8 @@
 ## 🐱‍👤 Who am I?
 
 - 🔭 I’m currently working on Ludapium, a mobile game about bees! 🐝
-- 🌱 I’m currently learning new skills on C# and Unity, mainly.
-- ⚡ Fun fact: I work at IBM!
+- 🌱 I’m currently learning and working on new skills on Java, C# and Unity, mainly.
+- ⚡ Fun fact: I work at BRQ!
 
 ---
 
@@ -20,7 +20,7 @@
 ### 🌎 Human Skills
 
 - Fluent in Brazilian Portuguese (mother tongue)
-- Fluent in English (second tongue)
+- Fluent in English
 - Learning French and Japanese
 
 ---
