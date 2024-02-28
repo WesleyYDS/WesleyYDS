@@ -3,8 +3,8 @@
 ## 🐱‍👤 Who am I?
 
 - 🔭 I’m currently working on Ludapium, a mobile game about bees! 🐝
-- 🌱 I’m currently learning and working on new skills on Java, C# and Unity, mainly.
-- ⚡ Fun fact: I work at BRQ!
+- 🌱 I’m currently learning and working on new skills on C#, Java and Unity, mainly.
+- ⚡ Fun fact: I work at Equinox Games!
 
 ---
 
@@ -13,15 +13,17 @@
 [![Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=HypThaNyx&layout=compact&text_color=000&title_color=000&bg_color=fff&locale=en&hide_border=true&langs_count=6)](https://github.com/HypThaNyx)
 ### 🤖 Developer Skills
 
-- Programming in C# (and other languages)
+- Programming in C# and Java
 - Developing games in Unity
 - Drawing (digitally and manually)
 
 ### 🌎 Human Skills
 
+- Leading game development teams
+- Managing Agile deliveries
 - Fluent in Brazilian Portuguese (mother tongue)
 - Fluent in English
-- Learning French and Japanese
+- Learning French, Brazilian Sign Language (Libras) and Japanese
 
 ---
 
